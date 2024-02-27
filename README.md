@@ -19,7 +19,6 @@ Pontos considerados durante a construção do projeto:
 - Git e Github
 - Grade
 - Animação
-- Grampo CSS
 - Variavéis
 - Figura
 - FlexBox
